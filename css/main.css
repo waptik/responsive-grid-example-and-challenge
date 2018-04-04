@@ -1,0 +1,60 @@
+/**
+*Waptik made this on 4/4/2018 15:48
+*
+**/
+
+ * {
+	box-sizing: border-box;
+}
+
+body {
+
+  font-family: "Roboto", helvetica, sans-serif;
+  font-size: 18px;
+  color: rgb(34, 34, 34);
+}
+
+header {
+  background-color: rgb(242, 191, 12);
+  margin-bottom: 40px;
+}
+
+header h1 {
+	margin-bottom: 0;
+	line-height: 1;
+}
+
+header p {
+	margin-top: 20px;
+}
+
+.content {
+	margin-bottom: 20px;
+	border: 2px solid rgb(230, 230, 230);
+	width: 100%;
+}
+
+.content-image {
+	width: 100%;
+}
+
+.content-text {
+	padding: 10px;
+}
+
+.content-text h3 {
+	margin: 0 0 0 0;
+}
+
+.content-text p {
+	margin: 20px 0;
+}
+
+footer {
+	margin-top: 100px;
+	text-align: center;
+}
+
+footer a{
+	color: rgb(17, 17, 17);
+}
